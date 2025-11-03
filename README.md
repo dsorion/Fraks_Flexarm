@@ -56,7 +56,7 @@ ___
 | M3 Hex Nuts                                               | 20       |<img src="Images/M3_Hex_Nut.png" alt="M3_Hex_Nut" width="40"/>             |
 | M5 Washers/Shims (10x1)                                   | 16       |<img src="Images/M5x10x1_Shim.png" alt="M5x10x1_Shim" width="40"/>         |
 | 6x3 Magnets                                               | 6        |<img src="Images/6x3_Magnet.png" alt="6x3_Magnet" width="40"/>             |
-| 6x2 Magnets (For Gridfinity Base)                         | 12       |<img src="Images/6x2_Magnet.png" alt="6x2_Magnet" width="40"/>             |
+| 6x2 Magnets (For Gridfinity Base)                         | 24       |<img src="Images/6x2_Magnet.png" alt="6x2_Magnet" width="40"/>             |
 | 1-1/4 #8 Pocket screws (For screwing base to table)       | 4        |<img src="Images/Pocket_Screw.png" alt="Pocket_Screw" width="90"/>         |
 | Table Saw Fence Clamp (For clamping to table)             | 1        |<img src="Images/Fence_Clamp.png" alt="Fence_Clamp" width="140"/>          |
 
@@ -75,6 +75,8 @@ ___
 ## Vendor Kits
 
 [DLL-PDF](https://dllpdf.com/fraks-flexarm) - Has extrusion kits and a M3/M5 Screw only hardware option. They offer custom powder-coating, and will cut the extrusions to any length you want.
+
+[Dremc](https://store.dremc.com.au/en-us/products/fraks-flexarm-kit) - Has a complete hardware kit, and sells extrusions in various lengths.
 
 [Fabreeko](https://www.fabreeko.com/products/fraks-flexarm-heat-insert-press-kits-by-turtle-crawler)   -
  Offers complete kits in 3 sizes, 300mm, 350mm, and 400mm. A portion of all sales from the Fabreeko listing are donated to me.
@@ -108,6 +110,18 @@ ___
 * Build the other 2 arms like the image bellow, with the spring standoffs placed 90mm from one end. You can adjust these later.
 
 ![Arm_Hardware_01](Images/Arm_Hardware_02.png)
+
+___
+
+# Change Log
+
+November 2nd, 2025:
+
+* Increased the thickness of the guard by 0.8mm, this should solve the issue that some users have had with breaking the guard.
+
+* Doublde the BOM Count for the 6x2 Magnets used for Gridfinity, as to include enough for the trays as well as the base.
+
+* Added a short readme about the 695 Bearing mod under the stl directory for them.
 
 ___
 
